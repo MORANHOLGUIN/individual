@@ -1,7 +1,7 @@
 # individual
 <img width="582" alt="image" src="https://github.com/MORANHOLGUIN/individual/assets/168208095/a4d46be6-2ab2-41d8-8dd6-e722eb70eb16">
 <img width="579" alt="image" src="https://github.com/MORANHOLGUIN/individual/assets/168208095/e0701019-f0c7-4276-bd0d-b8673cacb0d4">
-
+<img width="575" alt="image" src="https://github.com/MORANHOLGUIN/individual/assets/168208095/548de3d5-04cb-4a04-912b-71959500ba7f">
 
 Constructor InterfazGrafica:
 
